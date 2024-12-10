@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 100vh;
+    background: linear-gradient(#2A00B7, #42006C);
+}
+
+code {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
